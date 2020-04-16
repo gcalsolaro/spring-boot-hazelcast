@@ -15,7 +15,7 @@
 
 ## Architecture
 
-Microservice architectural style is an approach to developing a single application as a suite of small services.
+A data grid is an architecture or set of services that gives individuals or groups of users the ability to access, modify and transfer extremely large amounts of geographically distributed data for research purposes.
 In this example the technology stack used is provided by Spring Cloud, in particular:
 
 * **_Spring Boot_** - 2.0.0.RELEASE
